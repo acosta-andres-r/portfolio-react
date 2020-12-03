@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a65d4cb1.chunk.css",
+    "main.js": "/static/js/main.c0c82e0c.chunk.js",
+    "main.js.map": "/static/js/main.c0c82e0c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.992eac29.js",
+    "runtime-main.js.map": "/static/js/runtime-main.992eac29.js.map",
+    "static/css/2.c9e7500d.chunk.css": "/static/css/2.c9e7500d.chunk.css",
+    "static/js/2.2f331be9.chunk.js": "/static/js/2.2f331be9.chunk.js",
+    "static/js/2.2f331be9.chunk.js.map": "/static/js/2.2f331be9.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3d6141b03c7f9353a7d8b1fa982141fd.js": "/precache-manifest.3d6141b03c7f9353a7d8b1fa982141fd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.c9e7500d.chunk.css.map": "/static/css/2.c9e7500d.chunk.css.map",
+    "static/css/main.a65d4cb1.chunk.css.map": "/static/css/main.a65d4cb1.chunk.css.map",
+    "static/js/2.2f331be9.chunk.js.LICENSE.txt": "/static/js/2.2f331be9.chunk.js.LICENSE.txt",
+    "static/media/AA-logo.svg": "/static/media/AA-logo.d15da1c1.svg",
+    "static/media/aesthetica.png": "/static/media/aesthetica.75c90e14.png",
+    "static/media/employee-directory.png": "/static/media/employee-directory.49ac65f3.png",
+    "static/media/general-knowledge.png": "/static/media/general-knowledge.5b6e38b6.png",
+    "static/media/note-taker.png": "/static/media/note-taker.041e5cad.png",
+    "static/media/photo.jpg": "/static/media/photo.7ec25fbd.jpg",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.f3271dd2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.992eac29.js",
+    "static/css/2.c9e7500d.chunk.css",
+    "static/js/2.2f331be9.chunk.js",
+    "static/css/main.a65d4cb1.chunk.css",
+    "static/js/main.c0c82e0c.chunk.js"
+  ]
+}
