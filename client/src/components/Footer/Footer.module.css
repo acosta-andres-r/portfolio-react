@@ -1,0 +1,29 @@
+.Footer {
+    height: 30px;
+    width: 100%;
+    max-width: 1200px;
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    
+    background-color: #364f6b;
+    display: flex;
+    justify-content: center ;
+    align-items: center;
+    padding: 0 20px;
+    z-index: 90;
+}
+
+.Footer p {
+    margin: 0;
+    padding: 0;
+    font-size: 14px;
+    color: #f0f0f0;
+}
+
+@media (max-width: 499px) {
+    .DesktopOnly {
+        display: none;
+    }
+}
