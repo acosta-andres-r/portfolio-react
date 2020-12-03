@@ -19,7 +19,7 @@ const projects = [
     {
         title: "Aesthetica",
         text: "is a user friendly and interactive app that bridges fashion and community.",
-        deployed: "https://secure-ocean-28347.herokuapp.com/",
+        deployed: "https://powerful-hamlet-32166.herokuapp.com/",
         github: "https://github.com/acosta-andres-r/aesthetica",
         source: aesthetica
     },
